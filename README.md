@@ -10,6 +10,7 @@ Wireless unibody/unsplit portable keyboard.
 - unibody that can be disassembled into two parts for traveling
 - 40 Choc V1 switches
 - 1 rotary encoder and 1 five-way switch
+- reversible PCB
 - 3D printed case
 - nice!view support
 
