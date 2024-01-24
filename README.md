@@ -1,5 +1,17 @@
 # duet
 
+## CAUTION
+
+This is based on the work of zzeneg. The intent of this fork is to convert the duet into a standard x / min y spacing verison, to be used with [CMY keycaps](https://github.com/sadekbaroudi/fingerpunch/tree/master/keycaps/CMY)  
+
+In addition to this, I have added strong pinky stagger.  
+
+Please reach out in the [fingerpunch discord server](https://fingerpunch.xyz/discord) if you are interested in building this.  
+
+Everything below is the original readme, and has not been updated to reflect the changes in this repository.
+
+--------------------------------------------------------------------------------------------
+
 Wireless unibody/unsplit portable keyboard.
 
 [![image](https://github.com/zzeneg/duet/assets/910255/9c8ab5e8-fe0d-476c-9eb6-1208418ce3c7)](https://www.youtube.com/watch?v=R7SToNp1SO8)
