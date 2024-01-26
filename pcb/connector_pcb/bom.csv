@@ -1,0 +1,4 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"H1, H2",Hole_M2-TH,2,MountingHole,
+VIK_K1,Connector_VIK-magnetic-keyboard,1,Connector_VIK-keyboard,
+"VIK_K2, VIK_K4",Connector_FFC-12pin-1mm-vertical,2,Connector_VIK-keyboard,
